@@ -1,0 +1,6 @@
+[submodule "go-interface/themes/slim"]
+	path = go-interface/themes/slim
+	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
